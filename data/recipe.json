@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://i.ibb.co/gg6ftfz/image.png",
+    "chefName": "Alice Smith",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "like":245,
+    "ratings": 4.8,
+    "bio": "Alice Smith is an experienced chef with 10 years of culinary expertise under her belt. She has a diverse repertoire of 50 recipes that she has crafted with great care and attention to detail. Her passion for cooking and dedication to her craft is evident in the quality of her dishes. With 400 likes, Alice has gained a loyal following for her delicious and innovative recipes. She believes that cooking is an art form that allows her to express her creativity and connect with people through food. Alice's commitment to excellence and her ability to delight people's taste buds make her a sought-after chef in the culinary world.",
+    "recipi": [
+      {
+        "id": 1,
+        "Picture": "https://i.ibb.co/rMLYyC4/image-6.png",
+        "recipeName": "Classic Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "tomatoes",
+          "onion",
+          "garlic"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat. 3. Add diced onion and minced garlic to the skillet and cook until softened. 4. Add crushed tomatoes and simmer for 10 minutes. 5. Serve the sauce over the spaghetti.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "Picture": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "recipeName": "Homemade Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "pepperoni",
+          "mushrooms"
+        ],
+        "cookingMethod": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a floured surface. 3. Spread tomato sauce over the dough. 4. Add shredded mozzarella cheese on top of the sauce. 5. Add pepperoni and sliced mushrooms. 6. Bake for 12-15 minutes or until crust is golden brown. 7. Slice and serve.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "Picture": "https://i.ibb.co/ggZ7Z0m/image-8.png",
+        "recipeName": "Chicken Teriyaki",
+        "ingredients": [
+          "chicken breast",
+          "soy sauce",
+          "brown sugar",
+          "garlic",
+          "sesame seeds"
+        ],
+        "cookingMethod": "1. Cut chicken breast into bite-sized pieces. 2. In a small bowl, whisk together soy sauce, brown sugar, and minced garlic. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and pour the soy sauce mixture over it. 5. Cook until the chicken is cooked through and the sauce has thickened. 6. Serve over rice and sprinkle with sesame seeds.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGNoZWYlMjBjb29raW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "chefName": "John Smith",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "like": 245,
+    "ratings": 4.5,
+    "bio": "Alice Smith is an experienced chef with 10 years of culinary expertise under her belt. She has a diverse repertoire of 50 recipes that she has crafted with great care and attention to detail. Her passion for cooking and dedication to her craft is evident in the quality of her dishes. With 400 likes, Alice has gained a loyal following for her delicious and innovative recipes. She believes that cooking is an art form that allows her to express her creativity and connect with people through food. Alice's commitment to excellence and her ability to delight people's taste buds make her a sought-after chef in the culinary world.",
+    "recipi": [
+      {
+        "id": 1,
+        "Picture": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "recipeName": "Classic Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "tomatoes",
+          "onion",
+          "garlic"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat. 3. Add diced onion and minced garlic to the skillet and cook until softened. 4. Add crushed tomatoes and simmer for 10 minutes. 5. Serve the sauce over the spaghetti.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "Picture": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "recipeName": "Homemade Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "pepperoni",
+          "mushrooms"
+        ],
+        "cookingMethod": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a floured surface. 3. Spread tomato sauce over the dough. 4. Add shredded mozzarella cheese on top of the sauce. 5. Add pepperoni and sliced mushrooms. 6. Bake for 12-15 minutes or until crust is golden brown. 7. Slice and serve.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "Picture": "https://images.pexels.com/photos/1566837/pexels-photo-1566837.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "recipeName": "Chicken Teriyaki",
+        "ingredients": [
+          "chicken breast",
+          "soy sauce",
+          "brown sugar",
+          "garlic",
+          "sesame seeds"
+        ],
+        "cookingMethod": "1. Cut chicken breast into bite-sized pieces. 2. In a small bowl, whisk together soy sauce, brown sugar, and minced garlic. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and pour the soy sauce mixture over it. 5. Cook until the chicken is cooked through and the sauce has thickened. 6. Serve over rice and sprinkle with sesame seeds.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "chefName": "Alice Smith",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "like": 245,
+    "ratings": 4.4,
+    "bio": "Alice Smith is an experienced chef with 10 years of culinary expertise under her belt. She has a diverse repertoire of 50 recipes that she has crafted with great care and attention to detail. Her passion for cooking and dedication to her craft is evident in the quality of her dishes. With 400 likes, Alice has gained a loyal following for her delicious and innovative recipes. She believes that cooking is an art form that allows her to express her creativity and connect with people through food. Alice's commitment to excellence and her ability to delight people's taste buds make her a sought-after chef in the culinary world.",
+    "recipi": [
+      {
+        "id": 1,
+        "Picture": "https://images.pexels.com/photos/3682837/pexels-photo-3682837.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "recipeName": "Classic Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "tomatoes",
+          "onion",
+          "garlic"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat. 3. Add diced onion and minced garlic to the skillet and cook until softened. 4. Add crushed tomatoes and simmer for 10 minutes. 5. Serve the sauce over the spaghetti.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "Picture": "https://images.pexels.com/photos/59943/pexels-photo-59943.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "recipeName": "Homemade Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "pepperoni",
+          "mushrooms"
+        ],
+        "cookingMethod": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a floured surface. 3. Spread tomato sauce over the dough. 4. Add shredded mozzarella cheese on top of the sauce. 5. Add pepperoni and sliced mushrooms. 6. Bake for 12-15 minutes or until crust is golden brown. 7. Slice and serve.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "Picture": "https://images.pexels.com/photos/511763/pexels-photo-511763.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "recipeName": "Chicken Teriyaki",
+        "ingredients": [
+          "chicken breast",
+          "soy sauce",
+          "brown sugar",
+          "garlic",
+          "sesame seeds"
+        ],
+        "cookingMethod": "1. Cut chicken breast into bite-sized pieces. 2. In a small bowl, whisk together soy sauce, brown sugar, and minced garlic. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and pour the soy sauce mixture over it. 5. Cook until the chicken is cooked through and the sauce has thickened. 6. Serve over rice and sprinkle with sesame seeds.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://images.pexels.com/photos/3298641/pexels-photo-3298641.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "chefName": "Alice Smith",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "like": 245,
+    "ratings": 4.9,
+    "bio": "Alice Smith is an experienced chef with 10 years of culinary expertise under her belt. She has a diverse repertoire of 50 recipes that she has crafted with great care and attention to detail. Her passion for cooking and dedication to her craft is evident in the quality of her dishes. With 400 likes, Alice has gained a loyal following for her delicious and innovative recipes. She believes that cooking is an art form that allows her to express her creativity and connect with people through food. Alice's commitment to excellence and her ability to delight people's taste buds make her a sought-after chef in the culinary world.",
+    "recipi": [
+      {
+        "id": 1,
+        "Picture": "https://images.pexels.com/photos/842519/pexels-photo-842519.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "recipeName": "Classic Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "tomatoes",
+          "onion",
+          "garlic"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat. 3. Add diced onion and minced garlic to the skillet and cook until softened. 4. Add crushed tomatoes and simmer for 10 minutes. 5. Serve the sauce over the spaghetti.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "Picture": "https://images.pexels.com/photos/688802/pexels-photo-688802.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "recipeName": "Homemade Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "pepperoni",
+          "mushrooms"
+        ],
+        "cookingMethod": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a floured surface. 3. Spread tomato sauce over the dough. 4. Add shredded mozzarella cheese on top of the sauce. 5. Add pepperoni and sliced mushrooms. 6. Bake for 12-15 minutes or until crust is golden brown. 7. Slice and serve.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "Picture": "https://images.pexels.com/photos/365459/pexels-photo-365459.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "recipeName": "Chicken Teriyaki",
+        "ingredients": [
+          "chicken breast",
+          "soy sauce",
+          "brown sugar",
+          "garlic",
+          "sesame seeds"
+        ],
+        "cookingMethod": "1. Cut chicken breast into bite-sized pieces. 2. In a small bowl, whisk together soy sauce, brown sugar, and minced garlic. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and pour the soy sauce mixture over it. 5. Cook until the chicken is cooked through and the sauce has thickened. 6. Serve over rice and sprinkle with sesame seeds.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "chefName": "Alice Smith",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "like": 245,
+    "ratings": 4.3,
+    "bio": "Alice Smith is an experienced chef with 10 years of culinary expertise under her belt. She has a diverse repertoire of 50 recipes that she has crafted with great care and attention to detail. Her passion for cooking and dedication to her craft is evident in the quality of her dishes. With 400 likes, Alice has gained a loyal following for her delicious and innovative recipes. She believes that cooking is an art form that allows her to express her creativity and connect with people through food. Alice's commitment to excellence and her ability to delight people's taste buds make her a sought-after chef in the culinary world.",
+    "recipi": [
+      {
+        "id": 1,
+        "Picture": "https://images.pexels.com/photos/1265626/pexels-photo-1265626.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "recipeName": "Classic Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "tomatoes",
+          "onion",
+          "garlic"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat. 3. Add diced onion and minced garlic to the skillet and cook until softened. 4. Add crushed tomatoes and simmer for 10 minutes. 5. Serve the sauce over the spaghetti.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "Picture": "https://images.pexels.com/photos/2942320/pexels-photo-2942320.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "recipeName": "Homemade Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "pepperoni",
+          "mushrooms"
+        ],
+        "cookingMethod": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a floured surface. 3. Spread tomato sauce over the dough. 4. Add shredded mozzarella cheese on top of the sauce. 5. Add pepperoni and sliced mushrooms. 6. Bake for 12-15 minutes or until crust is golden brown. 7. Slice and serve.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "Picture": "https://images.pexels.com/photos/3620705/pexels-photo-3620705.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "recipeName": "Chicken Teriyaki",
+        "ingredients": [
+          "chicken breast",
+          "soy sauce",
+          "brown sugar",
+          "garlic",
+          "sesame seeds"
+        ],
+        "cookingMethod": "1. Cut chicken breast into bite-sized pieces. 2. In a small bowl, whisk together soy sauce, brown sugar, and minced garlic. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and pour the soy sauce mixture over it. 5. Cook until the chicken is cooked through and the sauce has thickened. 6. Serve over rice and sprinkle with sesame seeds.",
+        "rating": 4.3
+      }
+    ]
+  }
+]
